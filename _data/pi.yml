@@ -1,11 +1,13 @@
-# Optional: detailed education and bio for the About page.
-# Basic info (name, photo, links) now lives in _config.yml.
-# Delete this file if you only need the basics.
+# Education and bio for the About page.
+# Basic info (name, photo, links) lives in _config.yml.
 
-# EXAMPLE -- replace or delete
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
-    - "(1939) B.S. Physics, Massachusetts Institute of Technology"
+    - "(2023) Ph.D. Medical Sciences (with distinction), Jagiellonian University Medical College — InterDokMed: Interdisciplinarity for Innovation Medicine"
+    - "(2017) M.Sc. Biochemistry, Jagiellonian University, Kraków"
+    - "(2016) M.Sc. Applied Biology, University of Agriculture, Kraków"
+    - "(2014) B.Sc. Applied Biology, University of Agriculture, Kraków"
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
-    - "(1939) B.S. Physics, MIT"
+    - "(2023) Ph.D. Medical Sciences, JU Medical College"
+    - "(2017) M.Sc. Biochemistry, Jagiellonian University"
+    - "(2016) M.Sc. Applied Biology, UA Kraków"
+    - "(2014) B.Sc. Applied Biology, UA Kraków"

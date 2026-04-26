@@ -1,20 +1,20 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
-# Each entry needs: date, headline
-- date: 6 February, 1986
-  headline: "Appointed to the Rogers Commission investigating the Space Shuttle Challenger disaster"
 
-- date: 1 January, 1980
-  headline: "National Medal of Science awarded by President Carter"
+- date: "April 2026"
+  headline: "Awarded the H2S2026 Travel Award at the 8th World Congress on Hydrogen Sulfide in Biology and Medicine"
 
-- date: 21 October, 1965
-  headline: "Awarded the Nobel Prize in Physics for contributions to quantum electrodynamics"
+- date: "January 2026"
+  headline: "New paper out in <em>Experimental Biology and Medicine</em>: cyanide as an endogenous stimulator of endothelial cell proliferation, migration, and differentiation"
 
-- date: 1 September, 1961
-  headline: "The Feynman Lectures on Physics begins publication"
+- date: "2025"
+  headline: "Joined the Center for Biomedicine and Interdisciplinary Sciences at JU Medical College as Assistant Professor in the Gaseous Mediators and Experimental Gastroenterology Lab"
 
-- date: 1 June, 1959
-  headline: "Delivered 'There's Plenty of Room at the Bottom' talk at Caltech APS meeting"
+- date: "March 2025"
+  headline: "Co-authored study published in <em>Nature Metabolism</em>: regulation of mammalian cellular metabolism by endogenous cyanide production"
 
-- date: 1 January, 1951
-  headline: "Joined the faculty at California Institute of Technology"
+- date: "2025"
+  headline: "Concluded postdoctoral research with Prof. Csaba Szabo at the University of Fribourg"
+
+- date: "2023"
+  headline: "Defended Ph.D. with distinction (InterDokMed, Jagiellonian University Medical College)"

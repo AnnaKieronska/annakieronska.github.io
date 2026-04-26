@@ -10,50 +10,44 @@ permalink: /research/
 <div class="research-grid">
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
 <div class="research-body">
-<h4 class="research-title">Quantum Electrodynamics</h4>
-<p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
+<h4 class="research-title">Gasotransmitters: H₂S and HCN</h4>
+<p class="research-desc">Hydrogen sulfide and cyanide as endogenously produced signalling molecules. My work has shown that increased H₂S turnover serves a cytoprotective role during replicative senescence, and contributed to the discovery — published in <em>Nature Metabolism</em> — that mammalian cells produce cyanide endogenously, with downstream roles in cellular metabolism, endothelial function, and the pathogenesis of Down syndrome.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
 <div class="research-body">
-<h4 class="research-title">Superfluidity</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+<h4 class="research-title">Endothelial Function & Vascular Biology</h4>
+<p class="research-desc">Mechanisms underlying endothelial dysfunction in hyperlipidaemia, sepsis, hypertension, and aging. Studies span isolation of primary endothelial cells, <em>in vivo</em> MRI characterization of aortic responses to high-fat diet, and pharmacological reversal of endothelial dysfunction using novel formulations such as hyaluronan-based vitamin K nanocapsules.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
 <div class="research-body">
-<h4 class="research-title">Parton Model</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+<h4 class="research-title">Cellular Senescence & Aging</h4>
+<p class="research-desc">How macrophages and other cell types enter the senescent state, and how this process is modulated by gasotransmitters and pharmacological agents. Recent work has examined how the PARP inhibitor olaparib promotes macrophage senescence and how H₂S-producing pathways are remodelled during replicative senescence.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
 <div class="research-body">
-<h4 class="research-title">Quantum Computing</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+<h4 class="research-title">Vitamin K in Vascular Health</h4>
+<p class="research-desc">Anti-inflammatory and endothelial-protective roles of vitamin K, dissociated from its classical role as a coenzyme. This line of research, supported by a PRELUDIUM 16 grant where I served as Principal Investigator, led to a patent application for 2-methyl-3-phytyl-1,4-naphthoquinone in the treatment of vascular endothelial dysfunction; the rights have since been transferred to CHDE Polska SA.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
 <div class="research-body">
-<h4 class="research-title">Nanotechnology</h4>
-<p class="research-desc">Exploration of the physical possibilities of manipulating matter at the atomic scale. The talk "There's Plenty of Room at the Bottom" envisioned machines that could arrange atoms one by one, anticipating modern nanotechnology and molecular manufacturing.</p>
+<h4 class="research-title">Cancer & Metastasis</h4>
+<p class="research-desc">The role of pulmonary endothelium in metastatic breast cancer, with a particular focus on endothelial-mesenchymal transition, NO deficiency, and platelet-endothelium-tumor interactions. This work was carried out within the STRATEGMED consortium and continues into questions about gasotransmitters in triple-negative breast cancer (SPIRIT, SNF).</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Weak interaction diagram">
 <div class="research-body">
-<h4 class="research-title">Weak Interactions</h4>
-<p class="research-desc">Development of the V-A theory of the weak interaction with Murray Gell-Mann. This theory correctly predicted the structure of weak decays and was later incorporated into the electroweak unification by Weinberg, Salam, and Glashow.</p>
+<h4 class="research-title">Extracellular Matrix</h4>
+<p class="research-desc">Matrix remodelling in the context of vascular pathology, including the regulation of matrix metalloproteinases (MMPs) and their tissue inhibitors (TIMPs) across diverse physiological and pathological settings, from follicular development to cardiovascular disease.</p>
 </div>
 </div>
 

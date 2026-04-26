@@ -9,31 +9,23 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Electrodynamics</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Path Integrals</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Gasotransmitters</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Endothelial Function</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Cellular Senescence</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Vascular Biology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Vitamin K</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Cancer & Metastasis</a>
 </div>
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
+My research investigates how endogenously produced gaseous mediators — nitric oxide, hydrogen sulfide, and cyanide — shape vascular biology, cellular senescence, and metabolism. Building on training across pharmacology, biochemistry, and applied biology, my work bridges mechanistic *in vitro* and *in vivo* models with translational questions about endothelial dysfunction, aging, and cancer metastasis.
 
 <div class="callout callout-success" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
-</div>
-
-<div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
+<div class="callout-title"><i class="fa-solid fa-flask callout-icon"></i> Recent highlight: cyanide as an endogenous signalling molecule</div>
+<p>A 2025 study in <em>Nature Metabolism</em>, with follow-up work in <em>Neurotherapeutics</em> and <em>Experimental Biology and Medicine</em>, revealed that mammalian cells produce cyanide endogenously and that this molecule plays physiological roles in cellular metabolism, endothelial function, and the pathogenesis of Down syndrome.</p>
 </div>
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I am an Assistant Professor at the Center for Biomedicine and Interdisciplinary Sciences (Faculty of Medicine, Jagiellonian University Medical College), where I work in the Gaseous Mediators and Experimental Gastroenterology Lab. I completed my Ph.D. with distinction in 2023 through the InterDokMed interdisciplinary doctoral programme, and subsequently spent two and a half years as a postdoctoral researcher in the laboratory of Prof. Csaba Szabo at the University of Fribourg, Switzerland.
+
+Earlier in my career, I held research fellowships at Harvard University (Prof. Elena Aikawa's lab, Brigham and Women's Hospital) and King's College London (Prof. Catherine Shanahan's lab). I have authored 20 peer-reviewed publications, including first-author papers in <em>Geroscience</em>, <em>Biochemical Pharmacology</em>, and <em>Experimental Biology and Medicine</em>, and contributed to studies published in <em>Nature Metabolism</em>, <em>Breast Cancer Research</em>, and other journals in the field.
